@@ -12,7 +12,7 @@ pkgbase = awl-dns-git
 	arch = aarch64
 	license = BSD
 	makedepends = git
-	makedepends = go>=1.20
+	makedepends = go
 	makedepends = scdoc
 	provides = awl-dns
 	conflicts = awl-dns

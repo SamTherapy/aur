@@ -9,7 +9,7 @@ options=(!lto)
 license=('BSD')
 makedepends=(
  'git'
- 'go>=1.20'
+ 'go'
  'scdoc'
 )
 provides=("${pkgname%-*}")
